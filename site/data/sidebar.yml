@@ -115,6 +115,10 @@
     - title: Vertical align
     - title: Visibility
 
+- title: Theme
+  pages:
+    - title: Components
+
 - title: Extend
   pages:
     - title: Approach
